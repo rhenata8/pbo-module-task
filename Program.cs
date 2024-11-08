@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 class Hewan
 {
-    public string Aku;
+    public string Nama;
     public int Umur;
 
     public Hewan(string nama, int umur)
